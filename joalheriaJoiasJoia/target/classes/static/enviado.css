@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: #f1dad2;
+}
+
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #503b35;
+}
+
+h2{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    color: #503b35;
+}
+
+img{
+    width: 40%;
+    height: 100%;
+    border: 8px solid;
+    color: #503b35;
+}
+
+form{
+    width: 540px;
+    height: 100%;
+    margin: auto;
+    background: #999b86;
+    padding: 40px;
+    border-radius: 10px;
+}
